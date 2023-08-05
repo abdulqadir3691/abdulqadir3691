@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadir3691&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadir3691" /> </p>
 
-- 🔭 I have recently completed my first Capstone Project: [capstone project](https://portfolio-abdulqadir3691.vercel.app/)
+- 🔭 I have recently completed my first Capstone Project: [SelfDecod DNA](https://portfolio-abdulqadir3691.vercel.app/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
